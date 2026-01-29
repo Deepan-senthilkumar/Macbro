@@ -638,7 +638,7 @@ img {
 
 /* Global Section Headers */
 .section-header {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .section-header h2 {
@@ -1302,8 +1302,8 @@ img {
 /* --- About International Minimalist Section --- */
 .about-international-section {
     background-color: #ffffff;
-    padding: 60px 0;
-    /* Reduced from 140px */
+    padding: 30px 0;
+    /* Reduced from 60px */
     /* Significant vertical whitespace */
     position: relative;
     overflow: hidden;
@@ -1526,8 +1526,8 @@ img {
 .sticky-services-section {
     background: #f9fbfc;
     /* Soft Minimalist Gray */
-    padding: 70px 0 20px;
-    /* Tightened bottom */
+    padding: 30px 0 20px;
+    /* Reduced from 70px */
     position: relative;
     overflow: hidden;
 }
